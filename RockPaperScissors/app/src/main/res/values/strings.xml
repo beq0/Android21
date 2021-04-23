@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Rock Paper Scissors</string>
+    <string name="computerName">Computer</string>
+    <string name="playerName">Player</string>
+    <string name="startingPoints">0</string>
+    <string name="rockMoveText">ROCK</string>
+    <string name="paperMove">PAPER</string>
+    <string name="scissorsMove">SCISSORS</string>
+    <string name="press_any_button_to_start">Press any button to start</string>
 </resources>
